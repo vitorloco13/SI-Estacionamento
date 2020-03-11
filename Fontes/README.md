@@ -1,0 +1,1 @@
+# Guarde somente arquivos.java
